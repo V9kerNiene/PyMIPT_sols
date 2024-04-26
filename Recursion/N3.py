@@ -16,7 +16,7 @@ for i in range(h):
         else:
             tPatt += j
     patt, tPatt = tPatt, ''
-for _ in range(3):
+for _ in range(1):
     for k in patt:
         if k == '+':
             turtle.right(120)
